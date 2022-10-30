@@ -1,0 +1,37 @@
+*{
+    padding: 0px;
+    border: 0px;
+    box-sizing: border-box;
+}
+#logo {
+    text-align: center;
+    font-size: 100px;
+    font-weight: bold;
+    font-family: Helvetica;
+    color: khaki;
+    margin: 30px 0px;
+    background-image: url(./media/img1.jpg);
+    height: auto;
+    width: 100%;
+}
+#brushes, #frames, #paint{
+    font-family:  Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    height: 40px;
+    color: white;
+}
+#brushes{
+    background-color: mediumspringgreen;
+}
+#frames{
+    background-color: lightcoral;
+}
+#paint{
+    background-color: skyblue;
+}
+span{
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
